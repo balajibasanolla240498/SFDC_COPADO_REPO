@@ -190,6 +190,15 @@
         <type>Phone</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Field_Fourth__c</fullName>
+        <externalId>false</externalId>
+        <label>Field Fourth</label>
+        <required>true</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
     
     
 
